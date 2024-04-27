@@ -1,0 +1,76 @@
+# デザインドック
+
+- [デザインドック](#デザインドック)
+  - [1. Goals](#1-goals)
+  - [2. Non-goals](#2-non-goals)
+  - [3. Background](#3-background)
+  - [4. Userstories](#4-userstories)
+  - [5. Success Metrics](#5-success-metrics)
+  - [6. Biggest hypotheses](#6-biggest-hypotheses)
+  - [7. Risk/Pre-mortem](#7-riskpre-mortem)
+  - [8. Functional Requirements](#8-functional-requirements)
+  - [9. Alternatives Considered](#9-alternatives-considered)
+  - [10. Results](#10-results)
+
+
+---
+
+## 1. Goals
+
+ボディ
+
+---
+
+## 2. Non-goals
+
+ボディ
+
+---
+
+## 3. Background
+
+ボディ
+
+---
+
+## 4. Userstories
+
+ボディ
+
+---
+
+## 5. Success Metrics
+
+ボディ
+
+---
+
+## 6. Biggest hypotheses
+
+ボディ
+
+---
+
+## 7. Risk/Pre-mortem
+
+ボディ
+
+---
+
+## 8. Functional Requirements
+
+ボディ
+
+---
+
+## 9. Alternatives Considered
+
+ボディ
+
+---
+
+## 10. Results
+
+ボディ
+
+---
